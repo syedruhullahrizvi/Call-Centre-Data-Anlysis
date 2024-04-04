@@ -1,1 +1,2 @@
 # Call-Centre-Data-Anlysis
+The task involves analyzing call center data to generate insights and reports. Initial steps include cleaning null values and adjusting data types. Key performance indicators (KPIs) such as total calls, answered and rejected calls, resolution rates, and agent performance metrics will be calculated and presented interactively through charts and slicers for comprehensive analysis.
